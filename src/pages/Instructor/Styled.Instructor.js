@@ -42,7 +42,7 @@ export const ImgBox = styled.div`
     background-color: ${({ color }) => COLOR[color % 3]};
   }
 `;
-//33
+
 export const Img = styled.img`
   position: absolute;
   top: 2rem;
